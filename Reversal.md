@@ -77,6 +77,8 @@ It seems that they literally modify the already defined printidentity function t
 
 How many sources are they going to skid from? Also Nezur stole Xeno's code, so not surprising.
 
+![image](https://github.com/user-attachments/assets/ec68017f-50e5-4885-9811-7a7ff1692009)
+
 # It's not even worth it at this point
 
 > The epilogue is short. Don't use Scout.GG, please!
